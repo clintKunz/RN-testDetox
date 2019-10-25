@@ -72,7 +72,7 @@ const App: () => React$Node = () => {
                 <Text style={styles.sectionDescription}>
                   <DebugInstructions />
                 </Text>
-                <Button onPress={() => alert('Clicked!')} title="Click here!" />
+                <Button onPress={() => alert('Clicke!')} title="Click here!" />
               </View>
               <View style={styles.sectionContainer}>
                 <Text style={styles.sectionTitle}>Learn More</Text>
